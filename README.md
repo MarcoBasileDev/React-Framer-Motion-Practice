@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-The React Task Manager is a simple application that serves as a challenges list or task manager, allowing users to create tasks with a title, description, and an optional image. Each task is associated with a due date. Once a task is created, the application enables users to mark it as completed or failed. The primary objective of the project was to learn how to animate React components using Framer Motion.
+Simple application that serves as a challenges list or task manager, allowing users to create tasks with a title, description, and an optional image. Each task is associated with a due date. Once a task is created, the application enables users to mark it as completed or failed. The primary objective of the project was to learn how to animate React components using Framer Motion.
 
 ## Learning Goals
 
